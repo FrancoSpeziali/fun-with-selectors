@@ -32,6 +32,4 @@ You may want to use the following selectors:
 
 ## Result
 
-Your result should look something like this:
-
-![Sample result](sample_result.png)
+What word did you find?
